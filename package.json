@@ -16,5 +16,12 @@
     "playwright"
   ],
   "author": "kokila Vigneshwaran",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
 }
