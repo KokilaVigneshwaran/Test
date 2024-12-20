@@ -1,0 +1,20 @@
+{
+  "name": "testproject",
+  "version": "11.0.0",
+  "description": "Node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "npm",
+    "install",
+    "playwright"
+  ],
+  "author": "kokila Vigneshwaran",
+  "license": "ISC"
+}
